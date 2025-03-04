@@ -1,12 +1,12 @@
-# Randomize de Amigo Secreto
-Este proyecto es una aplicación web sencilla que permite añador amigos a una lista mediante su nombres, actualizar y muesta esta lista en tiempo real, sortear un amigo secreto y eliminar nombres con un clic.
+# Randomizer de Amigo Secreto
+Este proyecto es una aplicación web sencilla que permite añadir amigos a una lista mediante su nombres, actualizar y muestra esta lista en tiempo real, sortear un amigo secreto y eliminar nombres con un clic.
 
 ## Características
 - Agregar nombres a una lista de amigos.
 - Validación para evitar nombres duplicados.
 - Formateo automático de nombres (primera letra en mayúscula, resto en minúscula).
 - Mostrar la lista de amigos en pantalla.
-- Sorteo aleatorio de un amigo secreto.
+- Sorteo aleatorio de un amigo secreto mediante la función Math.random.
 - Eliminar nombres de la lista haciendo clic en ellos.
 - Cambio de color al pasar el cursor sobre un nombre para indicar su eliminación mediante el color rojo.
 
